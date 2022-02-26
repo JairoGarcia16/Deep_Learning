@@ -1,4 +1,4 @@
 # Deep_Learning
 
-#USTA TUNJA n\
-##Jairo Eduardo Garcia Sisa
+USTA TUNJA \
+Jairo Eduardo Garcia Sisa
